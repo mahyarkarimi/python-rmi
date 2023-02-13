@@ -1,4 +1,4 @@
-# Simple implementation of RMI api of Java
+# Simple implementation of RMI api of Java in Python
 
 This project is a simple copy of remote method invocation api of Java programming language written in python. it mimics the basic functionality of creating remote registry of objects at server to obtain on client.
 
