@@ -6,7 +6,7 @@ This project is a simple copy of remote method invocation api of Java programmin
 
 ### Server
 
-```
+```python
 from rmi import LocateRegistry, UnicastRemoteObject
 import time
 
@@ -24,7 +24,7 @@ if __name__ == '__main__':
 
 ### Client
 
-```
+```python
 from rmi import LocateRegistry
 
 if __name__ == "__main__":
